@@ -1,0 +1,20 @@
+body{
+ background:linear-gradient(#94efff 0%, #ff94bb 100%);
+ align-content: center;
+ color: #ff94bb;
+}
+#result_object_name,#result_object_accuracy{
+color:yellow;    
+}
+#obj,#accuracy{
+color: aqua;
+}
+#camera{
+border: 2px dashed aqua ;
+width: 350px;
+height:250\;
+}
+#result{
+    border:  dashed aqua ;
+    width: 352px; 
+}
